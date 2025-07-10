@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Q1 - store word meanings
 dict = {
     "table" : ["a piece of furniture", "list of facts & figures"],
@@ -32,7 +31,7 @@ values = {
 value = {9, "9.0"}
 
 print(values)
-=======
+
 #Q1 - store word meanings
 dict = {
     "table" : ["a piece of furniture", "list of facts & figures"],
@@ -66,5 +65,4 @@ values = {
 value = {9, "9.0"}
 
 print(values)
->>>>>>> 693881ecbe431cc1e781df349bbb3920f7dd1bc4
 print(value)
